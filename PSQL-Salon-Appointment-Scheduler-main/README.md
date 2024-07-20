@@ -1,3 +1,6 @@
+# ERD diagram:
+![ERD salon](https://github.com/KnEl1a/PostgreSQL-GIT-BashScript/blob/main/ERD%20diagrams/ERD%20-Salon-Appointment-Sch.png)
+
 Learned in https://www.freecodecamp.org/
 ## Postgres SQL
 
