@@ -1,5 +1,5 @@
 # ERD Diagram:
-[ERD dd](https://github.com/KnEl1a/PostgreSQL-GIT-BashScript/blob/main/ERD%20diagrams/ERD%20elements.png)
+![ERD dd](https://github.com/KnEl1a/PostgreSQL-GIT-BashScript/blob/main/ERD%20diagrams/ERD%20elements.png)
 
 # Periodic Table
 Project/ Problem: [BootCamp](https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database)
