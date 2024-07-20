@@ -1,3 +1,6 @@
+# ERD diagram:
+![ERD ddd](https://github.com/KnEl1a/PostgreSQL-GIT-BashScript/blob/main/ERD%20diagrams/ERD%20game%20numbers.png)
+
 # Number Guess Game
 
 Project/ Problem: [BootCamp](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game)
