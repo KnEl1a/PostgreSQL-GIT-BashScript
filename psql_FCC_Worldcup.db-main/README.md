@@ -26,10 +26,6 @@ This SQL script sets up a PostgreSQL database for storing and managing World Cup
 
 To set up the World Cup database, execute this script in a PostgreSQL environment. It will initialize the database and populate it with sample data, allowing for immediate querying and analysis.
 
-#### License
-
-This project is licensed under the MIT License, allowing for flexible use and distribution with appropriate attribution.
-
 ---
 
 #### Example of Usage
