@@ -1,6 +1,6 @@
 # PostgreSQL-GIT-BashScript
 
-# ERD Diagram example: 
+# ERD Diagram example from Universe.sql: 
 ![ERD](https://github.com/KnEl1a/PostgreSQL-GIT-BashScript/blob/main/ERD%20diagrams/ERD%20Universe.png?raw=true)
 
 [Programming BootCamp](https://www.freecodecamp.org/)
